@@ -37,12 +37,19 @@ O sistema coleta informações do usuário e avalia se ele está apto para execu
 
 ## Execução do Projeto
 
-Para executar o projeto via terminal:
+Para compilar e executar o projeto via terminal, utilize os seguintes comandos:
 
 ```bash
 dotnet build
 dotnet run
 ```
+
+### Explicação dos comandos
+
+* `dotnet build`: realiza a compilação do projeto, verificando erros e gerando os arquivos necessários para execução (binários).
+* `dotnet run`: executa o projeto após a compilação.
+
+O comando `dotnet build` é importante pois garante que o código está correto antes da execução, permitindo identificar possíveis erros de forma antecipada.
 
 ---
 
