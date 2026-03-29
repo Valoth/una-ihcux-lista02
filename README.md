@@ -50,7 +50,7 @@ dotnet run
 
 Abaixo está a execução do sistema no terminal:
 
-![Execução do Sistema](Prática%20C#/sistemaExpert.png)
+![Execução do Sistema](pratica-csharp/sistemaExpert.png)
 
 ---
 
